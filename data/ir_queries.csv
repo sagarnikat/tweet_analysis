@@ -1,0 +1,49 @@
+query_id,query_text,target_entity
+1,Amazon,Amazon
+2,Amazon prime shopping,Amazon
+3,Apex Legends,ApexLegends
+4,Apex Legends battle pass,ApexLegends
+5,Assassins Creed,AssassinsCreed
+6,Assassins Creed Valhalla,AssassinsCreed
+7,Battlefield,Battlefield
+8,Battlefield server multiplayer,Battlefield
+9,Borderlands,Borderlands
+10,Borderlands loot shooter,Borderlands
+11,CS GO,CS-GO
+12,CS GO competitive match,CS-GO
+13,Call of Duty,CallOfDuty
+14,Call of Duty Warzone,CallOfDuty
+15,Black Ops Cold War,CallOfDutyBlackopsColdWar
+16,Cyberpunk 2077,Cyberpunk2077
+17,Cyberpunk game patch,Cyberpunk2077
+18,Dota 2,Dota2
+19,Dota tournament valve,Dota2
+20,FIFA,FIFA
+21,FIFA ultimate team,FIFA
+22,Facebook,Facebook
+23,Fortnite,Fortnite
+24,Fortnite victory royale,Fortnite
+25,Google,Google
+26,Google search android,Google
+27,Grand Theft Auto,GrandTheftAuto(GTA)
+28,GTA online heist,GrandTheftAuto(GTA)
+29,Hearthstone,Hearthstone
+30,Home Depot,HomeDepot
+31,League of Legends,LeagueOfLegends
+32,Madden NFL,MaddenNFL
+33,Microsoft,Microsoft
+34,NBA 2K,NBA2K
+35,Nvidia,Nvidia
+36,Nvidia graphics card,Nvidia
+37,Overwatch,Overwatch
+38,PlayStation 5,PlayStation5(PS5)
+39,PlayStation console dualsense,PlayStation5(PS5)
+40,PUBG,PlayerUnknownsBattlegrounds(PUBG)
+41,Red Dead Redemption,RedDeadRedemption(RDR)
+42,Ghost Recon,TomClancysGhostRecon
+43,Rainbow Six,TomClancysRainbowSix
+44,Verizon,Verizon
+45,World of Warcraft,WorldOfCraft
+46,Xbox,Xbox(Xseries)
+47,Xbox Game Pass,Xbox(Xseries)
+48,Johnson and Johnson,johnson&johnson

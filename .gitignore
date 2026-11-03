@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+.pytest_cache/
+
+# ML Artifacts (Large Binaries)
+models/
+results/
+*.joblib
+*.pkl
+*.npy
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (Sensitive/Large)
+# data/*.csv
+!data/generate_tweets.py
+!data/prepare_data.py
